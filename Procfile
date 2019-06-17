@@ -1,0 +1,1 @@
+worker: GameBot.py
